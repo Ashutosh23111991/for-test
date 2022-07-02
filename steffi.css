@@ -1,0 +1,18 @@
+body
+{
+  background-color: cornflowerblue;
+}
+
+h1{
+    color: wheat;
+}
+.container-clone-git{
+  background-color: white;
+  width: 70%;
+  border-radius: 5px;
+  padding-top:1.4rem;
+  padding-bottom:1.4rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
+
+}
